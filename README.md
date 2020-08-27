@@ -1,1 +1,1 @@
-Its an simple an application just for Deploying AWS(Amazon Web Service)
+Its an simple an application just for Deploying AWS(Amazon Web Service).its an expiremental Project under the aws for hosting the sites.
