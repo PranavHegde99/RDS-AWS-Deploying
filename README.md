@@ -1,1 +1,1 @@
-Its an simple an appllication just for Deploying AWS(Amazon Web Service).
+Its an simple an appllication just for Deploying AWS(Amazon Web Service)
